@@ -25,8 +25,8 @@
 - [IA 링크](https://docs.google.com/spreadsheets/d/1AkB7Hc_xubRsbOp3B6Buha5o9dTmse0DKw8SU0Bai88/edit?usp=sharing)
 
 #### 발표자료
-- [전체 UI 피피티](./pptx/all.pptx)
+- [전체 UI 피피티](./pptx/all.pdf)
 - [발표용 피피티](./pptx/6조발표자료.pdf)
 - [근거가 추가된 피피티](./pptx/근거.ppt)
 #### 스토리보드
-- [스토리보드](./storyboard/storyboard.pptx)
+- [스토리보드](./storyboard/storyboard.pdf)

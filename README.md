@@ -1,2 +1,9 @@
-"# Platform"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/blissey2/Platform.git git push -u origin master
-"# Platform" 
+# 정보시스템 분석 및 설계 팀 프로젝트
+==================
+### 조원
+-201533245 이상우
+-201834702 고재규
+-201834742 주해진
+-201834745 최수혁
+
+### 회의록

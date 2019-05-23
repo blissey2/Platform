@@ -15,7 +15,7 @@
 
 
 #### 회의록
--[회의록 폴더](./com)
+-[회의록 폴더](./com\abb.txt)
 
 #### IA
 -[IA 링크](https://docs.google.com/spreadsheets/d/1AkB7Hc_xubRsbOp3B6Buha5o9dTmse0DKw8SU0Bai88/edit?usp=sharing)
